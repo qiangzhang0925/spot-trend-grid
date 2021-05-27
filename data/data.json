@@ -1,15 +1,15 @@
 {
     "runBet": {
-        "next_buy_price": 277.0558,
-        "grid_sell_price": 288.3642,
+        "next_buy_price": 2700.0000,
+        "grid_sell_price": 2800.0000,
         "step": 0
     },
     "config": {
-        "profit_ratio": 2.0,
-        "double_throw_ratio": 2.0,
+        "profit_ratio": 5.0,
+        "double_throw_ratio": 5.0,
         "cointype": "LTCUSDT",
         "quantity": [
-            0.042
+            0.001,0.002,0.003
         ]
     }
 }
